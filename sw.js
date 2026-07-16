@@ -4,7 +4,7 @@
  * - Icons / manifest / static assets: cache-first.
  * Bump CACHE on every release (kept in step with the visible app version).
  */
-const CACHE = 'blume-v2-0'
+const CACHE = 'blume-v2-1'
 const ASSETS = [
   './',
   './index.html',
